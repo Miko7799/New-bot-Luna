@@ -1,23 +1,23 @@
 let fs = require('fs')
 
 //Info maszeh
-global.owner = ["6285380166282"]
-global.mods = ["6285380166282"]
+global.owner = ["6285755827288"]
+global.mods = ["6285755827288"]
 
-global.namabot = 'Maxxy Bot' //nama BOT Lu
-global.packname = 'Maxxy Bot'
-global.author = 'KAHFI XD' //nama Owner
-global.ownernya = '6285380166282'
+global.namabot = 'Luna Bot' //nama BOT Lu
+global.packname = 'Luna Bot'
+global.author = 'Miko' //nama Owner
+global.ownernya = '6285755827288'
 global.linkyt = 'https://www.youtube.com/@MaxxyBotz' //link yt lu
-global.linkig = 'https://instagram.com/kahfiofc' //link ig
-global.linkgh = '-' //link github lu
-global.titlebot = `⫹⫺ WhatsApp Bot | By Rizky`
-global.wm2 = 'KAHFI XD' //ganti aja kalau mau
-global.wm = 'Maxxy Bot'
+global.linkig = 'https://instagram.com/_mikoneko?igshid=YmMyMTA2M2Y=' //link ig
+global.linkgh = 'https://github.com/Miko7799' //link github lu
+global.titlebot = `⫹⫺ WhatsApp Bot | By Miko`
+global.wm2 = 'Miko' //ganti aja kalau mau
+global.wm = 'Luna Bot'
 global.colong1 = 'Ciss 📸'
-global.colong2 = 'Maxxy Botシ︎'
+global.colong2 = 'Luna Botシ︎'
 global.kontak2 = [
-['6285380166282', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
+['6285755827288', '✓', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
 ]
 
 //Biodata OWNER Bre
@@ -27,7 +27,7 @@ global.agama = 'islam' //agama lu
 global.age = 'Privasi' //usia lu sekarang
 global.kelas = 'Privasi' //kelas lu
 global.hobi = 'Mangan/turu/ngegame' //hobi lu bre
-global.tempat = 'INDONESIA , Aceh , Aceh Timur' //tempat tinggal lu
+global.tempat = 'INDONESIA , jawa , jawa tengah' //tempat tinggal lu
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -66,7 +66,7 @@ global.lopr = 'Ⓟ'
 global.lolm = 'Ⓛ'
 
 //img nya
-global.thumb = 'https://telegra.ph/file/ac41d7c846aa54045e98e.jpg'
+global.thumb = 'https://telegra.ph/file/4493faaf16378c516480b.jpg'
 global.hwaifu = ['https://telegra.ph/file/a3bd959e8cf3131be2213.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/ac41d7c846aa54045e98e.jpg', 'https://telegra.ph/file/ac41d7c846aa54045e98e.jpg'
@@ -88,7 +88,7 @@ global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓.
 //========Url Template Buttons=========//
 //Jan Diganti Eror Ntar Nangis
 global.dtu = 'Group bot'
-global.urlnya = "https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup"
+global.urlnya = "https://chat.whatsapp.com/EbDBNtawPe80jLYlrqM8Xs"
 global.versi = '2.0.0'
 
 //============= callButtons =============//
